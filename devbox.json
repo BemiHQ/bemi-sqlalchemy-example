@@ -1,0 +1,11 @@
+{
+  "packages": {
+    "postgresql": "latest",
+    "bun":        "latest",
+    "python":     "latest"
+  },
+  "shell": {
+    "init_hook": ". $VENV_DIR/bin/activate",
+    "scripts":   {}
+  }
+}
